@@ -1,4 +1,4 @@
-# Projeto de Microcontroladores - Relógio Digital Configurável <br> Engenharia de Computação 
+# Projeto de Microcontroladores <br> Relógio Digital Configurável <br> Engenharia de Computação 
 Este projeto tem como intuito associar os conhecimentos aprendidos em sala de aula, junto a pratica, utilizando o microcontrolador ATMEGA328p, assim adquirindo ainda mais conhecimento sobre a disciplina de microcontroladores, da minha matriz curricular.  O projeto desenvolvido em questão é de um Relógio Digital Configuravel
 
 
