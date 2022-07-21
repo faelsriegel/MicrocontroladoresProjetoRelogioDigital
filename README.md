@@ -14,3 +14,5 @@ https://github.com/faelsriegel/ProjetoMicrocontroladores/blob/bfd6fb632a0d1bd4a7
 
 
 ![alt text](https://github.com/faelsriegel/ProjetoMicrocontroladores/blob/bfd6fb632a0d1bd4a76cc0461dd8c13e213f0ed3/to/image.png)
+
+![Alt text](relative/path/to/image.png?raw=true "Title")
