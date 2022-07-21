@@ -7,4 +7,4 @@ Link com a explicação Pratica do Projeto: https://youtu.be/ojxaL3qH1ZA
 
 "https://www.tinkercad.com/embed/6p6S18OP2aT?editbtn=1"
 
-![Microcontroladores - Projeto Relógio Digital](Microcontroladores - Projeto Relógio Digital.png)
+![Preview](https://raw.githubusercontent.com/username/project/master/image-path/image.png)
